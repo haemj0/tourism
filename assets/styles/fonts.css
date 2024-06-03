@@ -1,0 +1,42 @@
+@font-face {
+    font-weight: 500;
+    font-family: "SedgwickAve";
+    src: url(../fonts/1/SedgwickAve-Regular.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 600;
+    font-family: "Merriweather";
+    src: url(../fonts/2/Merriweather-Bold.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 500;
+    font-family: "Merriweather";
+    src: url(../fonts/2/Merriweather-Regular.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 200;
+    font-family: "TTTravels";
+    src: url(../fonts/3/TTTravels-ExtraLight.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 300;
+    font-family: "TTTravels";
+    src: url(../fonts/3/TTTravels-Light.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 400;
+    font-family: "TTTravels";
+    src: url(../fonts/3/TTTravels-Regular.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 500;
+    font-family: "TTTravels";
+    src: url(../fonts/3/TTTravels-Medium.ttf);
+    font-style: normal;
+}

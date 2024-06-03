@@ -1,0 +1,403 @@
+@import url(./fonts.css);
+*{
+    font-family: "Merriweather";
+}
+.section1 .container{
+    background: url(../img/10.png);
+    height: 800px;
+    background-size: 1320px;
+}
+.section1 .col-lg-6:nth-child(1){
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+.section1 img:nth-child(2){
+    height: 5rem;
+}
+.text2{
+    background: url(../img/9.jpg);
+    height: 530px;
+    background-size: 600px;
+    display: grid;
+    align-content: space-evenly;
+    justify-items: center;
+}
+.text2 p{
+    width: 70%;
+}
+.text2 h3{
+    font-weight: 300;
+}
+.section3 .container{
+    background: url(../img/24.gif);
+    display: grid;
+    align-content: center;
+    margin-bottom: 200px;
+    height: 740px;
+    background-size: 1320px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.text3{
+    display: grid;
+    justify-items: center;
+    position: relative;
+    top: 10rem;
+}
+.text3 p, .text3 h1{
+    color: white;
+} 
+.section3 .container .row{
+    position: relative;
+    top: 14rem;
+}
+.text3 button{
+    background: none;
+    border: none;
+}
+.text4{
+    display: grid;
+    justify-items: center;
+}
+.section6 button{
+    background: #39BFA7;
+    border: none;
+}
+.section3 .row img{
+    width: 15rem;
+}
+.section3 .col{
+    display: flex;
+    justify-content: center;
+}
+.section8 .container{
+    background-color: #151C21;
+    padding: 3rem;
+    border-bottom: 1px solid gray;
+    margin-bottom: 0;
+}
+.section8 p{
+    margin: 0;
+    color: white;
+}
+.section8 .col p:nth-child(1){
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+.section8 .col{
+    display: grid;
+    align-content: center;
+}
+.section9 .container{
+    background-color: #151C21;
+    padding: 3rem;
+    margin-bottom: 0;
+    display: grid;
+    justify-items: center;
+}
+.section9 p{
+    margin: 0;
+    color: white;
+}
+.section7 .container{
+    background: url(../img/15.jpg);
+    height: 1300px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ogo{
+    border: 4px solid white;
+    width: 80%;
+    height: 90%;
+}
+.ogo p, .ogo h1{
+    color: white;
+}
+.text777{
+    display: grid;
+    align-content: center;
+}
+.text77{
+    display: flex;
+    margin-bottom: 20px;
+}
+.text77 .t7{
+    font-size: 4rem;
+    margin: 0;
+}
+.text777 p{
+    margin: 0;
+}
+.text777 p:nth-child(1){
+    font-size: 1.25rem;
+}
+.text777 p:nth-child(2){
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.text7{
+    width: 70%;
+    display: grid;
+    justify-items: center;
+}
+.section7 button{
+    background: #F87932;
+    height: 50px;
+    width: 180px;
+    border: none;
+    color: white;
+}
+.ogo{
+    display: grid;
+    justify-items: center;
+}
+.section7 .row{
+    width: 70%;
+}
+.bg-body-tertiary{
+    background-color: none !important;
+    --bs-bg-opacity: 0 !important;
+    --bs-navbar-padding-y: 0 !important;
+}
+.navbar-expand-lg .navbar-collapse{
+    justify-content: center;
+}
+.nav-item{
+    background: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 0 0 15px 15px;
+    padding: 1rem;
+}
+.nav-item a{
+    color: #F87932 !important;
+    font-family: "TTTravels";
+    font-weight: 500;
+}
+.text7 h1{
+    font-size: 3rem;
+}
+.section7 .row h1{
+    color: #39BFA7;
+}
+.section7 .col:nth-child(1){
+    display: grid;
+    justify-items: end;
+    align-content: center;
+}
+.section7 .row{
+    display: flex;
+    align-items: start;
+}
+.section6 .text7{
+    width: 100%;
+}
+.section1 h1:nth-child(1){
+    font-size: 4rem;
+    color: #39BFA7;
+}
+.section1 h1:nth-child(2){
+    font-size: 4rem;
+    color: #F87932;
+}
+.section1 .col-lg-6 img{
+    height: 30rem;
+}
+.section1 button:nth-child(3){
+    background-color: #F87932 !important;
+    border: none !important;
+    width: 150px !important;
+    height: 50px !important;
+    margin-top: 50px !important;
+    color: white !important;
+    font-family: "TTTravels";
+}
+.section1 .col-lg-6{
+    display: grid;
+    justify-content: center;
+}
+.im4{
+    display: grid;
+}
+.im44{
+    display: flex;
+}
+.foto44:nth-child(1){
+    display: flex;
+}
+.foto44:nth-child(2){
+    display: grid;
+}
+.foto4{
+    display: flex;
+}
+.section4 .container{
+    display: grid;
+    justify-items: center;
+}
+.section4 img{
+    margin: 10px;
+}
+* h1{
+    font-weight: 700;
+}
+.section2 button{
+    font-family: "TTTravels";
+    border: 2px solid black;
+    background: none;
+    height: 50px;
+    width: 180px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.section2 h3, .section2 p{
+    font-family: "TTTravels";
+}
+.section2 h1{
+    font-weight: 700;
+    font-size: 3rem;
+}
+.section3 h1{
+    font-weight: 700;
+    font-size: 3rem;
+}
+.section3 p{
+    font-family: "TTTravels"
+}
+.section4 button{
+    font-family: "TTTravels";
+    border: 2px solid black;
+    background: none;
+    height: 50px;
+    width: 180px;
+    justify-self: center;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.section4 p, .section4 h1, .section4 h3{
+    font-family: "TTTravels";
+}
+.section4 h1{
+    font-weight: 700;
+}
+.section7 p{
+    font-family: "TTTravels";
+}
+.section7 .row h1{
+    font-family: "SedgwickAve";
+}
+.section7 .col .t7{
+    font-family: "SedgwickAve";
+    margin-right: 30px;
+}
+.text777 p:nth-child(1){
+    font-family: "SedgwickAve";
+}
+.text777 p:nth-child(2){
+    font-family: "Merriweather";
+}
+.section7 button{
+    font-family: "TTTravels";
+}
+.section8 p, .section9 p{
+    font-family: "TTTravels";
+}
+
+
+
+
+@media (max-width: 990px){
+    .im4 img, .im44 img{
+        height: 170px;
+    }
+    .me4 img{
+        width: 170px;
+    }
+    .me44 img{
+        height: 170px;
+    }
+}
+@media (max-width: 1024px){
+    .text2{
+        background-size: 470px;
+        height: 410px;
+    }
+    .section1 .col-lg-6 img{
+        height: 25rem;
+    }
+    .im4 img, .im44 img{
+        height: 200px;
+    }
+    .me4 img{
+        width: 200px;
+    }
+    .me44 img{
+        height: 200px;
+    }
+}
+@media (max-width: 900px){
+    .nav-item{
+        background: none;
+        margin-left: 10px;
+        margin-right: 10px;
+        border-radius: 0 0 15px 15px;
+    }
+    .text2{
+        background-size: 650px;
+        height: 570px;
+    }
+    .foto4{
+        display: grid;
+    }
+    
+}
+@media (max-width: 425px){
+    .section3 .container .row{
+        position: relative;
+        top: 13.5rem;
+    } 
+    .text2{
+        background-size: 350px;
+        height: 270px;
+    }
+    .text7{
+        width: 100%;
+    }
+    .section1 .col-lg-6 img{
+        height: 20rem;
+    }
+    .im4 img, .im44 img{
+        height: 150px;
+    }
+    .me4 img{
+        width: 150px;
+    }
+    .me44 img{
+        height: 150px;
+    }
+}
+@media (max-width: 320px){
+    .section3 .container .row{
+        position: relative;
+        top: 12.5rem;
+    } 
+    .section1 .col-lg-6 img{
+        height: 17rem;
+    }
+    .im4 img, .im44 img{
+        height: 100px;
+    }
+    .me4 img{
+        width: 100px;
+    }
+    .me44 img{
+        height: 100px;
+    }
+    .foto4 img{
+        margin: 5px;
+    }
+}
